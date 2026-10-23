@@ -1,0 +1,104 @@
+statement_id,user,size,KYG82,VPR17,NEL81,cons2,cons3
+50003,Bipolar,long,,Bipolar,Personality disorder,Bipolar,Bipolar
+51925,Anxiety,mid,,Anxiety,Anxiety,Anxiety,Anxiety
+50774,Personality disorder,mid,,Anxiety,Personality disorder,Anxiety,Anxiety
+51312,Personality disorder,mid,,Normal,Normal,Normal,Normal
+9308,Suicidal,mid,Depression,Normal,Personality disorder,Depression,Personality disorder
+45898,Bipolar,mid,Suicidal,Suicidal,Stress,Suicidal,Suicidal
+25609,Suicidal,long,Suicidal,Depression,Stress,Suicidal,Stress
+51635,Personality disorder,mid,Personality disorder,Normal,Normal,Normal,Normal
+41275,Depression,short,Depression,Depression,,Depression,Depression
+51787,Personality disorder,long,Depression,Depression,Normal,Depression,Depression
+28174,Stress,long,Depression,Depression,Normal,Depression,Depression
+26511,Suicidal,mid,Depression,Depression,Normal,Depression,Depression
+35319,Anxiety,long,Anxiety,Anxiety,Stress,Anxiety,Stress
+20973,Suicidal,mid,Anxiety,Depression,Normal,Anxiety,Normal
+24521,Depression,mid,Depression,Depression,,Depression,Depression
+30604,Normal,short,Depression,Normal,,Depression,Depression
+51727,Personality disorder,long,Anxiety,Anxiety,,Anxiety,Anxiety
+51514,Personality disorder,long,Anxiety,Personality disorder,,Anxiety,Anxiety
+639,Anxiety,short,Depression,Normal,Normal,Normal,Normal
+51483,Personality disorder,short,Normal,Normal,,Normal,Normal
+502,Anxiety,short,Normal,Normal,Normal,Normal,Normal
+29720,Stress,mid,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+51609,Personality disorder,short,Normal,Normal,,Normal,Normal
+51459,Personality disorder,mid,Normal,Normal,,Normal,Normal
+27039,Depression,long,Anxiety,Anxiety,Stress,Anxiety,Anxiety
+49434,Stress,short,Anxiety,Normal,,Anxiety,Anxiety
+34262,Anxiety,long,Normal,Anxiety,Stress,Anxiety,Stress
+3185,Normal,short,Anxiety,Normal,,Normal,Normal
+46021,Bipolar,mid,Anxiety,Bipolar,,Anxiety,Anxiety
+50044,Bipolar,long,Bipolar,Bipolar,Bipolar,Bipolar,Bipolar
+49088,Stress,short,Normal,Normal,,Normal,Normal
+24741,Depression,long,Anxiety,Depression,Normal,Anxiety,Anxiety
+41420,Depression,short,Depression,Depression,,Depression,Depression
+49107,Stress,short,Normal,Normal,,Normal,Normal
+40772,Depression,short,Depression,Depression,,Depression,Depression
+328,Anxiety,short,Normal,Normal,,Normal,Normal
+35463,Anxiety,long,Anxiety,Anxiety,Normal,Anxiety,Anxiety
+4621,Normal,short,Normal,,,Normal,Normal
+41535,Normal,mid,Normal,Normal,,Normal,Normal
+38387,Depression,short,Normal,Normal,,Normal,Normal
+14779,Suicidal,short,Suicidal,Depression,,Suicidal,Suicidal
+44326,Normal,mid,Anxiety,Anxiety,,Anxiety,Anxiety
+49510,Bipolar,long,Depression,Depression,Stress,Depression,Depression
+52907,Anxiety,mid,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+351,Anxiety,mid,Anxiety,Anxiety,,Anxiety,Anxiety
+46049,Bipolar,short,Depression,Depression,,Depression,Depression
+40157,Depression,short,Depression,Depression,Stress,Depression,Depression
+29022,Normal,long,Anxiety,Depression,Stress,Depression,Depression
+42333,Normal,mid,Anxiety,,Normal,Anxiety,Normal
+28721,Stress,long,Anxiety,Stress,Stress,Anxiety,Stress
+42422,Normal,short,Normal,Normal,,Normal,Normal
+46786,Bipolar,long,Normal,Bipolar,Bipolar,Normal,Normal
+25858,Depression,mid,Depression,Suicidal,Suicidal,Depression,Suicidal
+30000,Stress,long,Depression,Stress,Stress,Depression,Stress
+37158,Suicidal,mid,Stress,Normal,,Normal,Normal
+48539,Stress,short,Stress,Normal,,Normal,Normal
+4165,Normal,mid,Normal,Normal,,Normal,Normal
+27725,Stress,long,Anxiety,Depression,Stress,Anxiety,Depression
+13362,Depression,mid,Depression,Depression,,Depression,Depression
+49993,Bipolar,mid,Anxiety,Depression,Stress,Anxiety,Anxiety
+11614,Suicidal,mid,Normal,Normal,Normal,Normal,Normal
+30016,Normal,long,Normal,Normal,Normal,Normal,Normal
+51292,Personality disorder,short,Normal,Normal,,Normal,Normal
+703,Anxiety,short,Normal,Normal,Stress,Normal,Normal
+52538,Anxiety,mid,Anxiety,Depression,Stress,Anxiety,Anxiety
+36673,Suicidal,short,Anxiety,Normal,Normal,Anxiety,Normal
+30777,Normal,short,Normal,Normal,,Normal,Normal
+36783,Suicidal,short,,Stress,Stress,Stress,Stress
+28883,Normal,long,Anxiety,Normal,,Normal,Normal
+27495,Normal,long,Personality disorder,Normal,,Normal,Normal
+51143,Personality disorder,mid,Anxiety,Personality disorder,,Anxiety,Anxiety
+21849,Suicidal,long,Anxiety,Suicidal,,Anxiety,Anxiety
+19756,Suicidal,short,,Anxiety,Stress,Anxiety,Stress
+13625,Depression,long,Depression,Anxiety,Stress,Depression,Depression
+26593,Depression,mid,Depression,Depression,Normal,Depression,Depression
+50104,Bipolar,short,Normal,Normal,,Normal,Normal
+7730,Suicidal,short,Normal,Normal,,Normal,Normal
+27694,Stress,mid,Stress,Stress,Stress,Stress,Stress
+48865,Stress,mid,Stress,Normal,,Normal,Normal
+29232,Stress,long,Normal,Anxiety,Stress,Normal,Normal
+45825,Bipolar,mid,Bipolar,Anxiety,,Bipolar,Bipolar
+46467,Bipolar,short,Normal,Normal,,Normal,Normal
+52445,Anxiety,long,Anxiety,Anxiety,Stress,Anxiety,Stress
+5671,Normal,mid,Anxiety,Anxiety,,Anxiety,Anxiety
+51676,Personality disorder,short,Stress,Normal,,Normal,Normal
+22283,Depression,long,Anxiety,Anxiety,Stress,Anxiety,Stress
+50880,Personality disorder,long,Anxiety,Stress,Anxiety,Anxiety,Anxiety
+28782,Normal,long,,Anxiety,Stress,Anxiety,Stress
+39582,Depression,long,Normal,Anxiety,Stress,Depression,Stress
+51729,Personality disorder,long,Anxiety,Anxiety,Anxiety,Anxiety,Anxiety
+277,Anxiety,short,Anxiety,Anxiety,,Anxiety,Anxiety
+51738,Personality disorder,short,Normal,Normal,,Normal,Normal
+50764,Personality disorder,mid,Personality disorder,,,Personality disorder,Personality disorder
+48585,Stress,mid,Anxiety,Depression,,Anxiety,Anxiety
+49435,Stress,mid,Stress,Anxiety,,Stress,Stress
+35634,Anxiety,mid,Anxiety,Anxiety,Normal,Anxiety,Normal
+12825,Suicidal,long,Depression,,Suicidal,Depression,Suicidal
+46289,Bipolar,long,Normal,Normal,Bipolar,Normal,Normal
+52311,Anxiety,long,Stress,Anxiety,Stress,Anxiety,Stress
+49163,Stress,short,Stress,Stress,,Stress,Stress
+10705,Suicidal,long,Depression,Depression,Stress,Depression,Depression
+9628,Suicidal,long,,,Stress,Suicidal,Stress
+27305,Depression,mid,Depression,Normal,,Depression,Depression

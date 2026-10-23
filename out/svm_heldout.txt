@@ -1,0 +1,16 @@
+held-out accuracy: 0.767  (paper: 0.95)
+stopwords: nltk; fit time 1131s
+
+                      precision    recall  f1-score   support
+
+             Anxiety      0.841     0.746     0.791       768
+             Bipolar      0.939     0.667     0.780       556
+          Depression      0.665     0.763     0.711      3081
+              Normal      0.853     0.955     0.901      3269
+Personality disorder      1.000     0.447     0.617       215
+              Stress      0.816     0.387     0.525       517
+            Suicidal      0.711     0.642     0.675      2131
+
+            accuracy                          0.767     10537
+           macro avg      0.832     0.658     0.714     10537
+        weighted avg      0.774     0.767     0.761     10537

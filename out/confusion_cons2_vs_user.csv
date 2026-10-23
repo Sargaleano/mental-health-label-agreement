@@ -1,0 +1,8 @@
+cons2,Normal,Anxiety,Depression,Suicidal,Stress,Bipolar,Personality disorder
+Normal,9,4,1,3,5,4,8
+Anxiety,4,11,3,4,5,2,6
+Depression,2,0,11,4,2,2,1
+Suicidal,0,0,0,3,0,1,0
+Stress,0,0,0,1,3,0,0
+Bipolar,0,0,0,0,0,3,0
+Personality disorder,0,0,0,0,0,0,1

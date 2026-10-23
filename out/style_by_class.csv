@@ -1,0 +1,8 @@
+status,n,median_words,has_newline,has_apostrophe,all_lowercase
+Anxiety,3841,102.0,0.48,0.82,0.05
+Bipolar,2777,129.0,0.63,0.9,0.02
+Depression,15404,113.0,0.04,0.13,0.26
+Normal,16343,10.0,0.0,0.3,0.56
+Personality disorder,1077,137.0,0.69,0.87,0.04
+Stress,2587,87.0,0.25,0.81,0.02
+Suicidal,10652,92.0,0.0,0.09,0.04

@@ -54,5 +54,5 @@ Code: [MIT](LICENSE).
 
 Expert ratings and LLM outputs: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
 
-Post texts and user labels belong to the original Kaggle corpus and its sources. Files containing a subset of these posts (`data/ratings_*.csv`, `out/items.csv`) are redistributed under the source's [ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/) / [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) terms, with attribution to the [dataset](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health). See `data/README.md` and `out/README.md`.
+Post texts and user labels were originally published in the Kaggle *Sentiment Analysis for Mental Health* corpus, compiled from earlier public datasets. Files containing a subset of these posts (`data/ratings_*.csv`, `out/items.csv`) are redistributed under the source's [ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/) / [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) terms, with attribution to the [dataset](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health). See [`data/README.md`](data/README.md) and [`out/README.md`](out/README.md).
 

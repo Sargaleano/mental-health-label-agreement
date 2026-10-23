@@ -2,14 +2,13 @@
 
 [![Open analysis in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USER/mental-health-label-agreement/blob/main/mental_health_label_agreement.ipynb)
 [![Paper](https://img.shields.io/badge/Sci.%20Rep.-Matters%20Arising-blue)](PAPER_URL)
-[![DOI](https://zenodo.org/badge/DOI/ZENODO_DOI.svg)](https://doi.org/ZENODO_DOI)
 [![Code licence: MIT](https://img.shields.io/badge/code-MIT-green.svg)](LICENSE)
 [![Data licence: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
 Code and data for a *Matters Arising* comment on Kallstenius et al., "Comparing traditional natural language processing and large language models for mental health status classification: a multi-model evaluation", *Scientific Reports* **15**, 24102 (2025), [doi:10.1038/s41598-025-08031-0](https://doi.org/10.1038/s41598-025-08031-0).
 
-The original study ranked a TF-IDF + SVM classifier (95% accuracy) above a prompted LLM (65%) by agreement with the self-reported labels of the Kaggle *Sentiment Analysis for Mental Health* corpus. Three clinical psychologists rated 103 posts from that corpus blind to the original labels. GPT-4o-mini, the original study's model, agreed with their consensus on 61% of posts and with the original labels on 42%; a re-implementation of the SVM showed the opposite pattern (46% and 57%).
+The original study ranked a TF-IDF + SVM classifier (95% accuracy) above a prompted LLM (65%) by agreement with the self-reported labels of the Kaggle *Sentiment Analysis for Mental Health* corpus. In this study, three clinical psychologists rated 103 posts from that corpus blind to the original labels. GPT-4o-mini, the original study's model, agreed with their consensus on 61% of posts and with the original labels on 42%; a re-implementation of the SVM showed the opposite pattern (46% and 57%). We also compared with labels given by more advanced models (GPT-4.1, Haiku-5.5).
 
 <p align="center">
   <img src="figures/fig_agreement.png" width="560" alt="Pairwise agreement (Cohen's kappa) between original labels, SVM, three LLMs, expert consensus and individual experts">

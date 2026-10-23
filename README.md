@@ -3,7 +3,6 @@
 [![Open analysis in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sargaleano/mental-health-label-agreement/blob/main/mental_health_label_agreement.ipynb)
 [![Paper](https://img.shields.io/badge/Sci.%20Rep.-Matters%20Arising-blue)](https://www.nature.com/articles/s41598-025-08031-0)
 [![Code licence: MIT](https://img.shields.io/badge/code-MIT-green.svg)](LICENSE)
-[![Data licence: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Data licence: ODbL / CC BY 4.0](https://img.shields.io/badge/data-ODbL%20%2F%20CC%20BY%204.0-lightgrey.svg)](#licence)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
@@ -51,7 +50,9 @@ To relabel from scratch, delete `out/llm_raw_*.jsonl` and `out/svm_labels.csv`, 
 
 ## Licence
 
-Code: [MIT](LICENSE). Expert ratings and LLM outputs: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Post texts belong to the original Kaggle corpus and its sources. ## Licence
+Code: [MIT](LICENSE). 
 
-Code: [MIT](LICENSE). Files containing post texts or original labels from the Kaggle corpus (`data/ratings_*.csv`, `out/items.csv`) are redistributed under the source's [ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/) / [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) terms, with attribution to the [dataset](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health); all other outputs: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See `data/README.md` and `out/README.md`.
+Expert ratings and LLM outputs: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). 
+
+Post texts and user labels belong to the original Kaggle corpus and its sources. Files containing a subset of these posts are redistributed under the source's [ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/) / [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) terms, with attribution to the [dataset](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health). See `data/README.md` and `out/README.md`.
 

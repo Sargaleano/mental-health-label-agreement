@@ -39,4 +39,4 @@ Outputs of `mental_health_label_agreement.ipynb`, one or more per step. With thi
 
 The `statement` (post text) and `user_status` columns in the `items.csv` file are taken from the [*Sentiment Analysis for Mental Health*](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health) dataset by Suchintika Sarkar, released under the [ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/) / [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) terms. That file is redistributed under the same licences. 
 
-All other files are our own outputs, released under CC BY 4.0.
+All other files are our own outputs, released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

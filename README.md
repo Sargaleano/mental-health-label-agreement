@@ -1,7 +1,7 @@
 # LLMs align more closely with experts than with self-reported labels when classifying mental-health posts
 
-[![Open analysis in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GITHUB_USER/mental-health-label-agreement/blob/main/mental_health_label_agreement.ipynb)
-[![Paper](https://img.shields.io/badge/Sci.%20Rep.-Matters%20Arising-blue)](PAPER_URL)
+[![Open analysis in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sargaleano/mental-health-label-agreement/blob/main/mental_health_label_agreement.ipynb)
+[![Paper](https://img.shields.io/badge/Sci.%20Rep.-Matters%20Arising-blue)](https://www.nature.com/articles/s41598-025-08031-0)
 [![Code licence: MIT](https://img.shields.io/badge/code-MIT-green.svg)](LICENSE)
 [![Data licence: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)

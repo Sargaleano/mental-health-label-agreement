@@ -9,6 +9,6 @@ These columns were written by the rating tool at collection time (softmax of the
 
 ## Licence
 
-The `statement` (post text) and `user_status` columns are taken from the *Sentiment Analysis for Mental Health* dataset by Suchintika Sarkar (https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health), available under the Open Database License (ODbL v1.0, https://opendatacommons.org/licenses/odbl/1-0/) with contents under the Database Contents License (DbCL v1.0, https://opendatacommons.org/licenses/dbcl/1-0/). These files are redistributed under the same terms. 
+The `statement` (post text) and `user_status` columns are taken from the [*Sentiment Analysis for Mental Health*](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health) dataset by Suchintika Sarkar, released under the [ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/) / [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) terms. These files are redistributed under the same licences.
 
 The expert ratings were collected for this study and are released under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).

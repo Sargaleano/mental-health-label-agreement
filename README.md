@@ -4,6 +4,7 @@
 [![Paper](https://img.shields.io/badge/Sci.%20Rep.-Matters%20Arising-blue)](https://www.nature.com/articles/s41598-025-08031-0)
 [![Code licence: MIT](https://img.shields.io/badge/code-MIT-green.svg)](LICENSE)
 [![Data licence: CC BY 4.0](https://img.shields.io/badge/data-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Data licence: ODbL / CC BY 4.0](https://img.shields.io/badge/data-ODbL%20%2F%20CC%20BY%204.0-lightgrey.svg)](#licence)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
 Code and data for a *Matters Arising* comment on Kallstenius et al., "Comparing traditional natural language processing and large language models for mental health status classification: a multi-model evaluation", *Scientific Reports* **15**, 24102 (2025), [doi:10.1038/s41598-025-08031-0](https://doi.org/10.1038/s41598-025-08031-0).
@@ -40,9 +41,9 @@ To relabel from scratch, delete `out/llm_raw_*.jsonl` and `out/svm_labels.csv`, 
 
 ```bibtex
 @article{rojasgaleano2026matters,
-  author  = {Rojas-Galeano, Sergio and others},
+  author  = {Rojas-Galeano, Sergio and Tejada, Julián and Marmolejo-Ramos, Fernando.},
   title   = {LLMs align more closely with experts than with self-reported labels when classifying mental-health posts},
-  journal = {Scientific Reports},
+  journal = {Submitted to: Scientific Reports},
   year    = {2026},
   note    = {Matters Arising}
 }
@@ -50,4 +51,7 @@ To relabel from scratch, delete `out/llm_raw_*.jsonl` and `out/svm_labels.csv`, 
 
 ## Licence
 
-Code: [MIT](LICENSE). Expert ratings and LLM outputs: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Post texts belong to the original Kaggle corpus and its sources.
+Code: [MIT](LICENSE). Expert ratings and LLM outputs: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Post texts belong to the original Kaggle corpus and its sources. ## Licence
+
+Code: [MIT](LICENSE). Files containing post texts or original labels from the Kaggle corpus (`data/ratings_*.csv`, `out/items.csv`) are redistributed under the source's [ODbL v1.0](https://opendatacommons.org/licenses/odbl/1-0/) / [DbCL v1.0](https://opendatacommons.org/licenses/dbcl/1-0/) terms, with attribution to the [dataset](https://www.kaggle.com/datasets/suchintikasarkar/sentiment-analysis-for-mental-health); all other outputs: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See `data/README.md` and `out/README.md`.
+
